@@ -55,23 +55,23 @@ The build files will be generated in the `dist` folder.
 
 Here's a brief overview of the folder structure of the project:
 
-project-name/
+Erc20TokenBalanceAndTransfer/
 ├── node_modules/
 ├── public/
 ├── src/
 │ ├── ABI/
 │ ├── assets/
 │ ├── components/
-| ├── helpers/
-| | ├── Constants
-| | ├── CustomHooks
-| ├── pages/
-| | ├── main
-| ├── redux/
-| ├── App.css
-| ├── App.jsx
-| ├── index.css
-| ├── main.jsx
+│ │ ├── helpers/
+│ │ │ ├── Constants
+│ │ │ ├── CustomHooks
+│ ├── pages/
+│ │ ├── main
+│ ├── redux/
+│ ├── App.css
+│ ├── App.jsx
+│ ├── index.css
+│ ├── main.jsx
 ├── index.html
 ├── .eslintrc.cjs
 ├── postcss.config.js
