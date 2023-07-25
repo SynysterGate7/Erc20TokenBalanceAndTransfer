@@ -1,4 +1,4 @@
-# Erc20TokenTransfer
+# Erc20TokenBalanceAndTransfer
 
 The project is a React.js web application built using Vite for fast development and optimized builds, and Tailwind CSS for styling. The main focus of the project is to provide functionality for fetching and displaying the ERC20 token balance of a user's wallet and enabling ERC20 token transfers between users.
 
