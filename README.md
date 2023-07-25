@@ -4,7 +4,7 @@ This is a sample React.js project with Vite and Tailwind css. Vite is a build to
 
 ## Table of Contents
 
-- [Erc20TokenTransfer](#Erc20TokenTransfer)
+- [Erc20TokenTransfer](#project-name)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
