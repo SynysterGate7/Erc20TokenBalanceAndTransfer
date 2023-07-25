@@ -4,7 +4,6 @@ This is a sample React.js project with Vite and Tailwind css. Vite is a build to
 
 ## Table of Contents
 
-- [Erc20TokenTransfer](#Erc20TokenTransfer)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -108,4 +107,4 @@ Contributions are welcome! If you find any issues or want to improve the project
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project as per the terms of the MIT License.
+This project is not licensed yet.
