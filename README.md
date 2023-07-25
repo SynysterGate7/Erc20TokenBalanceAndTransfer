@@ -25,21 +25,21 @@ Follow the instructions below to set up and run the project on your local machin
 
 1. Clone the repository.
 
-git clone https://github.com/SynysterGate7/Erc20TokenBalanceAndTransfer.git
+`git clone https://github.com/SynysterGate7/Erc20TokenBalanceAndTransfer.git`
 
 2. Navigate to the project folder.
 
-cd Erc20TokenBalanceAndTransfer
+`cd Erc20TokenBalanceAndTransfer`
 
 3. Install dependencies.
 
-npm install
+`npm install`
 
 ## Development
 
 To start the development server and run the project locally, use the following command:
 
-npm run dev
+`npm run dev`
 
 This will start the development server, and you can access the application at `http://localhost:5173`.
 
@@ -47,7 +47,7 @@ This will start the development server, and you can access the application at `h
 
 To create an optimized production build of the project, use the following command:
 
-npm run build
+`npm run build`
 
 The build files will be generated in the `dist` folder.
 
