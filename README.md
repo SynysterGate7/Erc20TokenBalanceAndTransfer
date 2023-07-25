@@ -25,7 +25,7 @@ Follow the instructions below to set up and run the project on your local machin
 
 1. Clone the repository.
 
-`git clone https://github.com/SynysterGate7/Erc20TokenBalanceAndTransfer.git`
+git clone https://github.com/SynysterGate7/Erc20TokenBalanceAndTransfer.git
 
 2. Navigate to the project folder.
 
