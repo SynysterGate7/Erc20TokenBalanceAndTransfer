@@ -1,6 +1,6 @@
 # Erc20TokenTransfer
 
-This is a sample React.js project with Vite and Tailwind css. Vite is a build tool that enables fast development and optimized builds. This project is a template for quickly starting a React.js application with Vite's benefits.
+The project is a React.js web application built using Vite for fast development and optimized builds, and Tailwind CSS for styling. The main focus of the project is to provide functionality for fetching and displaying the ERC20 token balance of a user's wallet and enabling ERC20 token transfers between users.
 
 ## Table of Contents
 
