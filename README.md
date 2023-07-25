@@ -4,7 +4,7 @@ This is a sample React.js project with Vite and Tailwind css. Vite is a build to
 
 ## Table of Contents
 
-- [Project Name](#project-name)
+- [Erc20TokenTransfer](#Erc20TokenTransfer)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -30,7 +30,7 @@ git clone https://github.com/SynysterGate7/Erc20TokenTransfer.git
 
 2. Navigate to the project folder.
 
-cd project-name
+cd Erc20TokenTransfer
 
 3. Install dependencies.
 
